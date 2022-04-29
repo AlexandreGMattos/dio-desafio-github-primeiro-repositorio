@@ -1,2 +1,24 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Primeiros Comandos com o Git
+
+git init // inicia o repositorio do git
+git add // mover arquivos.
+git commit // cria um commit.
+git status // verifica a situação do arquivo.
+
+Exemplo
+git add * // adiciona todos os arquivos
+git status // verifica a situação dos arquivos
+git commit - m "texto para anotações" // cria um commit com uma anotação.
+git push origin main // enviar os arquivos para a nuvem/servidor do Git.
+
+*************************************
+Configurando o Git na maquina local.
+
+git config --global user.email "email@email.com"
+git config --global user.name
+
+
+
